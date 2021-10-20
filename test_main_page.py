@@ -1,4 +1,4 @@
-from Tensor_Project.Tensor_project.pages.main_page import MainPage
+from .pages.main_page import MainPage
 
 link = "https://yandex.ru/"
 

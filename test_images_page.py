@@ -1,5 +1,5 @@
-from Tensor_Project.Tensor_project.pages.main_page import MainPage
-from Tensor_Project.Tensor_project.pages.images_page import ImagesPage
+from .pages.main_page import MainPage
+from .pages.images_page import ImagesPage
 
 link = "https://yandex.ru/"
 
